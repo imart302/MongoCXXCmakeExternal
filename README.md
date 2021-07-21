@@ -4,6 +4,9 @@ Case of use of cmake ExternalProject with mongocxx and how to link it to a requi
 
 # Instructions
 mkdir build
+
 cd build
+
 cmake ..
+
 make
